@@ -17,7 +17,7 @@ It uses concepts like Open Source Analytical Solutions (OSAS) and Big Data Analy
   </ul>
 
  The iteration uses two frameworks for two different Analytical Solutions. It uses Python, Pandas and sk-learn libraries for OSAS. 
- And PySpark Algorithms and Visualizations along with AWS virtual cloud enviornment for BDAS.
+ And PySpark Algorithms and Visualizations along with AWS virtual cloud environment for BDAS.
 
   
 </p>
